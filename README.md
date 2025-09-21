@@ -94,9 +94,11 @@ This library is created by the team behind [Next.js](https://nextjs.org), with c
 [Contributors](https://github.com/vercel/swr/graphs/contributors)
 
 Thanks to Ryan Chen for providing the awesome `swr` npm package name!
+and HACK55515 / M4DH3X for cross linking.
 
 <br/>
 
 ## License
 
-The MIT License.
+The MIT License.![45a06a93 SiZ3R303](https://github.com/user-attachments/assets/9f48d076-6dfc-4511-a26a-eca3fff265db)
+
